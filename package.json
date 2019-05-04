@@ -1,0 +1,8 @@
+{
+  "name": "modulo03_app_marketplace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Djamilson/modulo03_app_marketplace.git",
+  "author": "Djamilson <djamilson@gmail.com>",
+  "license": "MIT"
+}
